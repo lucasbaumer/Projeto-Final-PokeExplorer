@@ -141,7 +141,7 @@ git clone https://github.com/seu-usuario/pokeexplorer.git
 
 ## 🎥 Demonstração em Vídeo
 
-📺 [Link para vídeo no YouTube demonstrando o aplicativo](COLE_AQUI_O_LINK)
+📺 [Link para vídeo no YouTube demonstrando o aplicativo](https://youtu.be/YU55UBCtpRc)
 
 ---
 
