@@ -1,5 +1,6 @@
 📱 PokéExplorer
 Sua Jornada no Mundo Pokémon!
+
 🎯 Descrição
 O PokéExplorer é um aplicativo iOS desenvolvido em SwiftUI que permite aos usuários explorar, visualizar detalhes e favoritar seus Pokémon favoritos. O app consome dados da PokéAPI em tempo real, permite cadastro e autenticação de usuários com persistência local via SQLite, e utiliza Coordinator para organizar a navegação. O projeto é responsivo, conta com cache de imagens e aplica Design Tokens para manter a consistência visual.
 
